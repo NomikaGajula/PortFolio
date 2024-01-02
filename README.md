@@ -1,6 +1,7 @@
 <h2 align="center">
   Portfolio Website<br/>
 </h2>
+<a href="https://nomikagajula.netlify.app/"></a>
 <div align="center">
    <img alt="Demo" src="./preview/HomeView.png" />
 </div>
@@ -20,8 +21,6 @@ This project was built using these technologies.
 
 
 ## Features
-
-**📖 Multi-Page Layout**
 
 **🎨 Styled with React-Bootstrap and Css with easy to customize colors**
 
