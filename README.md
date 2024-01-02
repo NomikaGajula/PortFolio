@@ -2,7 +2,7 @@
   Portfolio Website<br/>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/interface.png" />
+   <img alt="Demo" src="./preview/HomeView.png" />
 </div>
 
 <br/>
