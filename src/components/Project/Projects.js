@@ -9,7 +9,7 @@ const details=[
   },
   {
     source:require("../../Assets/CPA.png"),
-      link:'https://github.com/NomikaGajula/Campus-Placement-An',
+      link:'https://github.com/NomikaGajula/Campus-Placement-Analyser',
       title:'Campus Placement Analyser'
   },
   {
