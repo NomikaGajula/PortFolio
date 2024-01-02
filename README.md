@@ -1,7 +1,7 @@
 <h2 align="center">
   Portfolio Website<br/>
 </h2>
-<a href="https://nomikagajula.netlify.app/"></a>
+<a href="https://nomikagajula.netlify.app/">https://nomikagajula.netlify.app/</a>
 <div align="center">
    <img alt="Demo" src="./preview/HomeView.png" />
 </div>
