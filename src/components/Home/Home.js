@@ -50,7 +50,7 @@ function Home() {
             </Col>
           </Row>
         </Container>
-      <section id='about' data-aos="fade-down">
+      <section id='about' data-aos="fade-in">
       <About />
       </section>
       <section id='skills'  style={{paddingTop:'3%'}} data-aos="fade-up">
