@@ -1,4 +1,4 @@
-import Resume_New from "./Nomika_Resume.pdf";
+// import Resume_New from "./Nomika_Resume.pdf";
 export default function Resume(){
    
     return (
