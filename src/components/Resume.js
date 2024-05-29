@@ -4,8 +4,8 @@ export default function Resume(){
     return (
         <div>
         <a
-          href={Resume_New}
-          download="Nomika_Resume"
+          href={"https://drive.google.com/file/d/1BkVWb6KAPvPfxcMHOQuKb5gsfLff6z2R/view?usp=drive_link"}
+          // download="Nomika_Resume"
           target="_blank"
           rel="noreferrer"
           style={{color:'white',
@@ -17,7 +17,7 @@ export default function Resume(){
           padding:'8px',
           borderRadius:'7px'}}
           >
-         Download Resume
+         Resume
         </a>
       </div>
          
