@@ -4,7 +4,7 @@ export default function Resume(){
     return (
         <div>
         <a
-          href={"https://drive.google.com/file/d/1BkVWb6KAPvPfxcMHOQuKb5gsfLff6z2R/view?usp=drive_link"}
+          href={"https://drive.google.com/file/d/1q3aonqF93o06SnYdPzk7NRGXNnNvhV8x/view?usp=sharing"}
           // download="Nomika_Resume"
           target="_blank"
           rel="noreferrer"
